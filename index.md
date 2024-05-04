@@ -4,7 +4,8 @@ layout: default
 
 # Geforce-Kepler-patcher
 
-### This patcher not work on macOS Ventura 13
+### This patcher only works in macOS Monterey 12
+- Do not use it in another macOS Version
 
 
 ```diff
