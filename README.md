@@ -1,6 +1,6 @@
 Geforce-Kepler-patcher
 
-### This patcher does not work after macOS Monterey 12
+### This patcher does not work BEFORE and AFTER macOS Monterey 12
 
 ```diff
 + Nvidia Kepler Binaries
